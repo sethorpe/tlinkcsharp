@@ -1,0 +1,26 @@
+﻿# Pick an environment to run the UI tests
+Site:
+    ProductName: "TransLink Auto HW"
+    SiteAlias: "TL"
+    TestEnvironment: "QA"
+
+# UI Test Run Configuration
+
+Settings:
+    Browser: "Chrome"
+    MobileDevice: "NA"
+    ShowOnMonitor: 2
+    TestCategory: NA
+
+# ===> Please use only the below specified values for each parameter
+
+# Paramater: "Browser" - current supported browsers
+        # Chrome
+        # Firefox
+        # Edge
+
+# Parameter: "TestEnvironment" - Environments available
+        # QA
+        # DEV
+        # STAG
+        # PROD

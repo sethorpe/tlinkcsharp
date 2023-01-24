@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransLinkAutoHW", "TransLinkAutoHW\TransLinkAutoHW.csproj", "{DDB06F62-3A30-4068-A7D4-5BDAE88EC5A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "..\..\CommonLib\CommonLib\CommonLib.csproj", "{2F2D2840-4498-49EB-8336-33EAF12C718F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB06F62-3A30-4068-A7D4-5BDAE88EC5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB06F62-3A30-4068-A7D4-5BDAE88EC5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB06F62-3A30-4068-A7D4-5BDAE88EC5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB06F62-3A30-4068-A7D4-5BDAE88EC5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2D2840-4498-49EB-8336-33EAF12C718F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2D2840-4498-49EB-8336-33EAF12C718F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2D2840-4498-49EB-8336-33EAF12C718F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2D2840-4498-49EB-8336-33EAF12C718F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EBF75D3-9C20-44EB-B81E-ACF9F8C2E43B}
+	EndGlobalSection
+EndGlobal
